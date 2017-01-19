@@ -1,6 +1,6 @@
 Name     : jdk-jakarta-oro
 Version  : 2.0.8
-Release  : 1
+Release  : 2
 URL      : http://archive.apache.org/dist/jakarta/oro/jakarta-oro-2.0.8.tar.gz
 Source0  : http://archive.apache.org/dist/jakarta/oro/jakarta-oro-2.0.8.tar.gz
 Source1  : http://repo1.maven.org/maven2/oro/oro/2.0.8/oro-2.0.8.pom
